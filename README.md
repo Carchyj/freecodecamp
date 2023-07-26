@@ -1,1 +1,1 @@
-A mini project creating a celestial bodies database.
+Mini Projects for relational database certification course
